@@ -65,6 +65,6 @@ if (blueWins) { //playerOne is always blue
     disableRemainingItems()
     return winner
   } else {
-    console.log('game on....')
+    console.log('game on...')
   }
 }
